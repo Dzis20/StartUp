@@ -322,6 +322,9 @@ span.navbar-toggler-icon {
   .card-first:hover .work-item-hover {
     display: block;
   }
+  .works .card img {
+   height: 100%;
+}
   .work-item-hover h4 {
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
